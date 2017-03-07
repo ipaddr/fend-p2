@@ -5,29 +5,29 @@ body {
 	width: 340px;
 }
 
-div {
+.container, .fish-info {
 	margin-top: 8px;
 	margin-bottom: 8px;
 	padding: 16px;
-	border-style: inset;
+	border-style: solid;
 }
 
-
-h3 {
-	font: bold;
+.fish-name {
+	font-weight: bold;
 	text- 
 }
 
-img {
+.fish-img {
 	width: 300px;
 	height: 200px;
 }
 
-p {
+.fish-info-unqique {
 	text-align: justify;
+	font-style: italic;
 }
 
-ul {
+.fish-info-detail {
 	list-style: none;
 }
 
