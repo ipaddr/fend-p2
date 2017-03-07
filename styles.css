@@ -34,3 +34,7 @@ body {
 li>span {
 	font-weight: bold;
 }
+
+.fish-info-description{
+	text-align: justify;
+}
