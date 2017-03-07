@@ -1,0 +1,36 @@
+/* add your CSS here */
+
+body {
+	margin: 8px;
+	width: 340px;
+}
+
+div {
+	margin-top: 8px;
+	margin-bottom: 8px;
+	padding: 16px;
+	border-style: inset;
+}
+
+
+h3 {
+	font: bold;
+	text- 
+}
+
+img {
+	width: 300px;
+	height: 200px;
+}
+
+p {
+	text-align: justify;
+}
+
+ul {
+	list-style: none;
+}
+
+li>span {
+	font-weight: bold;
+}
